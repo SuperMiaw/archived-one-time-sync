@@ -1,6 +1,10 @@
 One Time Sync
 =============
 
+> **Archived project — historical and educational reference only.**
+>
+> This repository preserves an earlier personal automation project as an illustration of its original design and implementation. It is no longer maintained, and is not intended as a ready-to-use or production-ready solution. The code and instructions may be outdated and have not been reviewed for current security or compatibility requirements.
+
 Requirement
 -----------
 1. `python3` for making this program works.
